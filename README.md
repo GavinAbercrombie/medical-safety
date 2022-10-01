@@ -13,7 +13,7 @@ Bibtex:
     author = {Gavin Abercrombie and Verena Rieser},\
     booktitle = {Proceedings of The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics},\
     year = {2022},\
-    publisher = "Association for Computational Linguistics"\
+    publisher = {Association for Computational Linguistics}\
 }
 
 ## Contents
@@ -51,5 +51,7 @@ The following column headers appear in the data files:
 | 'reddit-response'          | Reddit (r/AskDocs) response                        |
 | 'reddit-response-expert'   | Expert label for response from Reddit              |
 | 'reddit-response-cws'      | List of crowdworker labels for the Reddit response |
+
+Expert labelling and advice was provided by Joe Johnston, NHS Scotland.
 
 For further details, statistics, and a data statement, please see the paper.
