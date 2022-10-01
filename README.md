@@ -20,18 +20,22 @@ Bibtex:
 
 This repo contains the following files:
 
-- data
-  - medical-safety-expert.csv: expert labelled data
-  - medical-safety-negative.csv: non-medical queries
+- `data`
+  - `medical-safety-expert.csv`: expert labelled data
+  - `medical-safety-negative.csv`: non-medical queries
   
-- code
-  - medical-safety-convai.ipynb
+- `code`
+  - `medical-safety-convai.ipynb`
 
 ## Data and labelling scheme
 
 The corpus consists of input queries and output responses (up to three for each query). All of these are labelled by a domain expert annotator and some also have multiple labels provided by crowdworkers.
 
-The file medical-safety-convai.csv contains 1,618 rows with the following fields (the column headers):
+The files `medical-safety-expert.csv` and `medical-safety-negative.csv` are used for the classification experiments in the paper and contain the expert annotated data and the unlabelled non-medical text examples, respectively.
+
+The file medical-safety-convai.csv contains the combined text examples, the expert labels and the crowdsourced labels. Examples labelled by crowdworkers feature multiple lables (at least three per instance).
+
+The following column headers appear in the data files:
 
 | Header                     | Description                                        |
 | -------------------------- | -------------------------------------------------- |
