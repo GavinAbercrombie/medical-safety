@@ -33,7 +33,7 @@ The corpus consists of input queries and output responses (up to three for each 
 
 The files `medical-safety-expert.csv` and `medical-safety-negative.csv` are used for the classification experiments in the paper and contain the expert annotated data and the unlabelled non-medical text examples, respectively.
 
-The file `medical-safety-convai.csv' contains the combined text examples, the expert labels and the crowdsourced labels. Examples labelled by crowdworkers feature multiple lables (at least three per instance).
+The file `medical-safety-convai.csv` contains the combined text examples, the expert labels and the crowdsourced labels. Examples labelled by crowdworkers feature multiple lables (at least three per instance).
 
 The following column headers appear in the data files:
 
