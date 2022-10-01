@@ -4,7 +4,7 @@ Data from the AACL 2022 paper "Risk-graded Safety for Handling Medical Queries i
 
 Please cite as:
 
-Gavin Abercrombie and Verena Rieser. 2022. Risk-graded Safety for Handling Medical Queries in Conversational AI. In Proceedings of The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics. Association for Computational Linguistics.
+Gavin Abercrombie and Verena Rieser. 2022. Risk-graded Safety for Handling Medical Queries in Conversational AI. In *Proceedings of The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics*. Association for Computational Linguistics.
 
 Bibtex:
 
@@ -15,6 +15,17 @@ Bibtex:
     year = {2022},\
     publisher = "Association for Computational Linguistics"\
 }
+
+## Contents
+
+This repo contains the following files:
+
+- data
+  - medical-safety-expert.csv: expert labelled data
+  - medical-safety-negative.csv: non-medical queries
+  
+- code
+  - medical-safety-convai.ipynb
 
 ## Data and labelling scheme
 
