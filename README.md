@@ -26,7 +26,7 @@ This repo contains the following files:
 - `data`
   - `medical-safety-crowd.csv`: crowd-labelled data
   - `medical-safety-expert.csv`: expert-labelled data
-  - `medical-safety-negative.csv`: non-medical queries
+  - `medical-safety-negative.csv`: (unlabelled) non-medical queries
  
 
 ## Data and labelling scheme
