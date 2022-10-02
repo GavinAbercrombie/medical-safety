@@ -21,8 +21,9 @@ Bibtex:
 This repo contains the following files:
 
 - `data`
-  - `medical-safety-expert.csv`: expert labelled data
+  - `medical-safety-expert.csv`: expert-labelled data
   - `medical-safety-negative.csv`: non-medical queries
+  - `medical-safety-crowd.csv`: crowd-labelled data
   
 - `code`
   - `medical-safety-convai.ipynb`
@@ -52,6 +53,6 @@ The following column headers appear in the data files:
 | 'reddit-response-expert'   | Expert label for response from Reddit              |
 | 'reddit-response-cws'      | List of crowdworker labels for the Reddit response |
 
-Expert labelling and advice was provided by Joe Johnston, NHS Scotland.
+Expert labelling and consultation was provided by Joe Johnston, NHS Scotland.
 
 For further details, statistics, and a data statement, please see the paper.
