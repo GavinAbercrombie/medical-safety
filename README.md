@@ -20,13 +20,14 @@ Bibtex:
 
 This repo contains the following files:
 
-- `data`
-  - `medical-safety-expert.csv`: expert-labelled data
-  - `medical-safety-negative.csv`: non-medical queries
-  - `medical-safety-crowd.csv`: crowd-labelled data
-  
 - `code`
   - `medical-safety-convai.ipynb`
+
+- `data`
+  - `medical-safety-crowd.csv`: crowd-labelled data
+  - `medical-safety-expert.csv`: expert-labelled data
+  - `medical-safety-negative.csv`: non-medical queries
+ 
 
 ## Data and labelling scheme
 
