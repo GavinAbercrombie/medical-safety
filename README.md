@@ -20,7 +20,7 @@ Bibtex:
 
 This repo contains the following files:
 
-- `MediCheck'
+- `MediCheck`
   - `code`
     - `medical-safety-convai.ipynb`
   - `data`
