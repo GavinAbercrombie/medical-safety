@@ -40,18 +40,18 @@ The following column headers appear in the data files:
 
 | Header                     | Description                                        |
 | -------------------------- | -------------------------------------------------- |
-| 'query'                    | Input query text                                   |
-| 'query-expert'             | Expert label for the query                         |
-| 'query-cws'                | List of crowdworker labels for the query           |
-| 'alexa-response'           | Alexa response                                     |
-| 'alexa-response-expert'    | Expert label for Alexa's response                  |
-| 'alexa-response-cws'       | List of crowdworker labels for Alexa's response    |
-| 'dialogpt-response'        | DialoGPT response                                  |
-| 'dialogpt-response-expert' | Expert label for DialoGPT's response               |
-| 'dialogpt-response-cws'    | List of crowdworker labels for DialoGPT's response |
-| 'reddit-response'          | Reddit (r/AskDocs) response                        |
-| 'reddit-response-expert'   | Expert label for response from Reddit              |
-| 'reddit-response-cws'      | List of crowdworker labels for the Reddit response |
+| `query`                    | Input query text                                   |
+| `query-expert`             | Expert label for the query                         |
+| `query-cws`                | List of crowdworker labels for the query           |
+| `alexa-response`           | Alexa response                                     |
+| `alexa-response-expert`    | Expert label for Alexa's response                  |
+| `alexa-response-cws`       | List of crowdworker labels for Alexa's response    |
+| `dialogpt-response`        | DialoGPT response                                  |
+| `dialogpt-response-expert` | Expert label for DialoGPT's response               |
+| `dialogpt-response-cws`    | List of crowdworker labels for DialoGPT's response |
+| `reddit-response`          | Reddit (r/AskDocs) response                        |
+| `reddit-response-expert`   | Expert label for response from Reddit              |
+| `reddit-response-cws`      | List of crowdworker labels for the Reddit response |
 
 Expert labelling and consultation was provided by Joe Johnston, NHS Scotland.
 
