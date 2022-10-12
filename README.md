@@ -21,7 +21,7 @@ Bibtex:
 This repo contains the following files:
 
 - `code`
-  - `medical-safety-convai.ipynb`
+  - `medical-safety-convai.ipynb`: a Google Colab notebook
 - `data`
   - `medical-safety-crowd.csv`: crowd-labelled data
   - `medical-safety-expert.csv`: expert-labelled data
