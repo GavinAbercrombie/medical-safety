@@ -1,6 +1,6 @@
 # medical-safety
 
-Data from the AACL 2022 paper "MediCheck: Risk-graded Safety for Handling Medical Queries in Conversational AI".
+Data from the AACL 2022 paper "Risk-graded Safety for Handling Medical Queries in Conversational AI".
 
 Please cite as:
 
