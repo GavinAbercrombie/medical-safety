@@ -8,12 +8,12 @@ Gavin Abercrombie and Verena Rieser. 2022. Risk-graded Safety for Handling Medic
 
 Bibtex:
 
-        @inproceedings{abercrombie-rieser-2022-risk,\
-            title = {Risk-graded Safety for Handling Medical Queries in Conversational {AI}},\
-            author = {Gavin Abercrombie and Verena Rieser},\
-            booktitle = {Proceedings of The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics},\
-            year = {2022},\
-            publisher = {Association for Computational Linguistics}\
+        @inproceedings{abercrombie-rieser-2022-risk,
+                title = {Risk-graded Safety for Handling Medical Queries in Conversational {AI}},
+                author = {Gavin Abercrombie and Verena Rieser},
+                booktitle = {Proceedings of The 2nd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics},
+                year = {2022},
+                publisher = {Association for Computational Linguistics}
         }
 
 ## Contents
